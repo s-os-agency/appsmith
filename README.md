@@ -60,7 +60,7 @@ To build and run Appsmith in your local dev environment, see [Setup for local de
 - [support@appsmith.com](mailto:support@appsmith.com)
 
 ## Appsmith Agents
-Introducing a new agentic AI platform that integrates the latest AI models with private and proprietary data at scale — inside the tools and systems that teams use every day. Appsmith Agents expands generative AI’s capabilities for the millions of knowledge workers in sales, support, customer success, human resources, and other business teams. By giving continuous context to AI models, Appsmith Agents lets teams ask questions and configure automations specific to their business without model fine-tuning or complex RAG implementations. Visit [appsmith.com/ai](https://www.appsmith.com/ai) to learn more.
+Introducing a new agentic AI platform that integrates the latest AI models with private and proprietary data at scale — inside the tools and systems that teams use every day. Appsmith Agents expands generative AI’s capabilities for the millions of knowledge workers in sales, support, customer success, human resources, and other business teams. By giving continuous context to AI models, Appsmith Agents lets teams ask questions and configure automations specific to their business without model fine-tuning or complex answers based on saved sources. Visit [appsmith.com/ai](https://www.appsmith.com/ai) to learn more.
                                                                                                                 
 ## Contributing
 We ❤️ our contributors. We're committed to fostering an open, welcoming, and safe environment in the community.
